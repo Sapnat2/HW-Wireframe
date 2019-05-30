@@ -1,0 +1,92 @@
+
+
+body {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 0;
+
+       color: #000;
+   }
+footer {
+
+text-align: center;
+width: 100%;
+padding-bottom: 50px;
+  padding-right: 20px; 
+  clear: both;
+
+
+  background: #ebebeb;  
+}
+
+#wapper2
+{
+    width: 1400px;
+margin: 0 auto;
+clear: both;
+overflow: auto;
+
+}
+#wapper
+{
+margin: 0 0 15px 0;
+clear: both;
+overflow: auto;
+
+}
+header {
+    width: 100%;
+    padding: 20px;
+    background-color: gray;
+    text-align: center;
+
+}
+
+nav {
+    width: 100%;
+    padding: 20px;
+    background-color: gray;
+    text-align: center;
+}
+
+section {
+    float: left;
+    text-align: center;
+    width: 55%;
+    padding: 20px;
+    background-color: gray;
+    height: 300px;
+}
+
+article {
+ margin: 0 auto;
+    
+    text-align: center;
+    width: 80%;
+    padding: 20px;
+    background-color: darkgray;
+    height: 150px;
+
+}
+aside {
+    float: right;
+    text-align: center;
+    width: 35%;
+    padding: 20px;
+    background-color: gray;
+    height: 300px;
+
+}
+
+h1 {
+    float: left;
+    background-color: lightgray;
+    width: 80%;
+    padding: 10px;
+}
+p {
+    float: left;
+    background-color:lightgrey;
+    width: 80%;
+    padding: 10px;
+}
